@@ -1,6 +1,6 @@
 
 # 项目介绍
-本项目完成论文 ***Adaptive Hardness Negative Sampling for Collaborative Filtering*** 的复现。基于ReChorus推荐系统框架https://github.com/THUwangcy/ReChorus.完成。  
+本项目完成论文 ***Adaptive Hardness Negative Sampling for Collaborative Filtering*** 的复现。基于ReChorus推荐系统框架(https://github.com/THUwangcy/ReChorus)完成。  
  本项目在ReChorus框架中增加了使用AHNS采样方法的LightGCN和NeuMF模型用以完成对比试验。
 
 # 环境依赖
